@@ -5,8 +5,8 @@ function timer(input) {
     return console.log("error")
    
   }
-  if (input != Number){
-    return console.log("error")
+  //if (input != Number){
+    //return console.log("error")
   }
   for (let i = 0; i < input.length; i++) {
     setTimeout(function(){
